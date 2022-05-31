@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>This is a home page</h1>
+	<p>Akhirnya menjadi gak homepage nya</p>
+	<p>Kene pakai index.html for the first page of the system</p>
 </body>
 </html>
