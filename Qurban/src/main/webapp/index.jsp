@@ -11,7 +11,7 @@
 	<h1>This is a home page</h1>
 	<p>Akhirnya menjadi gak homepage nya</p>
 	<p>Kene pakai index.html for the first page of the system</p>
-	<p>Please enter the following details</p>
+	
 	
 
 	<form action="login.jsp" method="post" >
