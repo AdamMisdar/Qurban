@@ -7,6 +7,7 @@
 <title>Login Page</title>
 </head>
 <body>
+<p>Dedekkkk</p>
 <%
 	String fname = request.getParameter("fname");
 	String lname = request.getParameter("lname");	
