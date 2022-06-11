@@ -11,8 +11,6 @@
 	<h1>This is a home page</h1>
 	<p>Akhirnya menjadi gak homepage nya</p>
 	<p>Kene pakai index.html for the first page of the system</p>
-	<p>Nabilah comel tapi ganas</p>
-	<p>nisah syg kambing<p>
 
 	<form action="login.jsp" method="post" >
   		<label for="fname">First name:</label><br>
